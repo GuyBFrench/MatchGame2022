@@ -10,3 +10,6 @@
 [submodule "Matching/Assets/Tools/ArtisanDream.Tools"]
 	path = Matching/Assets/Tools/ArtisanDream.Tools
 	url = https://github.com/anthonyromrell/ArtisanDream.Tools
+[submodule "Tools/PersonalTools"]
+	path = Tools/PersonalTools
+	url = https://github.com/GuyBFrench/PersonalTools
