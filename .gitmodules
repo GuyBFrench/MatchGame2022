@@ -3,3 +3,5 @@
 [submodule "Tools/PersonalTools"]
 	path = Tools/PersonalTools
 	url = https://github.com/GuyBFrench/PersonalTools
+[submodule "Matching/Assets/Tools/ArtisanDream.Tools"]
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
