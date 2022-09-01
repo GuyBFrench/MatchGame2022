@@ -1,15 +1,7 @@
-[submodule "MatchGame2022\\Matching\\Assets"]
-	path = MatchGame2022\\Matching\\Assets
-	url = https://github.com/anthonyromrell/ArtisanDream.Tools
-[submodule "Matching\\Assets"]
-	path = Matching\\Assets
-	url = https://github.com/anthonyromrell/ArtisanDream.Tools
-[submodule "Matching\\Assets/Tools"]
-	path = Matching\\Assets/Tools
-	url = https://github.com/anthonyromrell/ArtisanDream.Tools
-[submodule "Matching/Assets/Tools/ArtisanDream.Tools"]
 	path = Matching/Assets/Tools/ArtisanDream.Tools
 	url = https://github.com/anthonyromrell/ArtisanDream.Tools
 [submodule "Tools/PersonalTools"]
 	path = Tools/PersonalTools
 	url = https://github.com/GuyBFrench/PersonalTools
+[submodule "Matching/Assets/Tools/ArtisanDream.Tools"]
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
