@@ -34,6 +34,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,6 +78,7 @@
       <updated>1661982801226</updated>
       <workItem from="1661982872727" duration="632000" />
       <workItem from="1661988032672" duration="3718000" />
+      <workItem from="1662158654012" duration="897000" />
     </task>
     <servers />
   </component>
