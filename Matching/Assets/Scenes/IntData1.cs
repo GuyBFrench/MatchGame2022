@@ -1,9 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
-public class IntData : ScriptableObject
+public class IntData1 : ScriptableObject
 {
     public int hits;
 

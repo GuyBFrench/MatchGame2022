@@ -9,7 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b46ffe88ae48a8e44aa1e9c1421cad05, type: 3}
-  m_Name: Touches
+  m_Script: {fileID: 11500000, guid: 85342ad9fb3439a4a89006c113e920a8, type: 3}
+  m_Name: NewHealth
   m_EditorClassIdentifier: 
-  hits: 0
+  powerUp: {fileID: 928509495490555463, guid: aa968400ee2b97d4cb4478d25a22eb45, type: 3}
+  number: 4

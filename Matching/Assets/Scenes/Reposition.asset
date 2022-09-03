@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b46ffe88ae48a8e44aa1e9c1421cad05, type: 3}
-  m_Name: Touches
+  m_Script: {fileID: 11500000, guid: a7bb20bae7aea7248ad258bddf784245, type: 3}
+  m_Name: Reposition
   m_EditorClassIdentifier: 
-  hits: 0
+  position: {x: 0, y: 0, z: 0}
