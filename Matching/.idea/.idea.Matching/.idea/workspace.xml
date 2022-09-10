@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/ChallengeEventBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/FloatData1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/IntData1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/SpawnHealthPowerups.cs" root0="FORCE_HIGHLIGHTING" />
@@ -83,6 +84,7 @@
       <workItem from="1661988032672" duration="3718000" />
       <workItem from="1662158654012" duration="6486000" />
       <workItem from="1662592064973" duration="1146000" />
+      <workItem from="1662780346361" duration="3697000" />
     </task>
     <servers />
   </component>
