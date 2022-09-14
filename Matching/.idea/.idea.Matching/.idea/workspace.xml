@@ -20,6 +20,7 @@
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/ColorID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/DraggableBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/ID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/IDContainerBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/IntData1.cs" root0="FORCE_HIGHLIGHTING" />
@@ -93,7 +94,7 @@
       <workItem from="1662158654012" duration="6486000" />
       <workItem from="1662592064973" duration="1146000" />
       <workItem from="1662780346361" duration="3697000" />
-      <workItem from="1663189429765" duration="5343000" />
+      <workItem from="1663189429765" duration="7977000" />
     </task>
     <servers />
   </component>
