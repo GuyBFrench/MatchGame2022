@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a7bb20bae7aea7248ad258bddf784245, type: 3}
-  m_Name: Reposition
+  m_Script: {fileID: 11500000, guid: 3c8e4a131dd50c24d8b24e4ffc52d31e, type: 3}
+  m_Name: Red
   m_EditorClassIdentifier: 
-  position: {x: 0, y: 0, z: 0}
+  value: {r: 1, g: 0, b: 0, a: 1}

@@ -3,10 +3,10 @@ using UnityEngine;
 [CreateAssetMenu]
 public class IntData1 : ScriptableObject
 {
-    public int hits;
+    public int value;
 
-    public void UpdateHits(int touches)
+    public void UpdateValue(int num)
     {
-        hits += touches;
+        value += num;
     }
 }
