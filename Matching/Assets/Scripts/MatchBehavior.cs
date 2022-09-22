@@ -1,8 +1,6 @@
 using System.Collections;
-using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.Events;
-using Debug = UnityEngine.Debug;
 
 public class MatchBehavior : MonoBehaviour
 {
