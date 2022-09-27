@@ -9,7 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8eb1405bde1f1540b126d60b05c32b5, type: 3}
-  m_Name: DotV3A
+  m_Script: {fileID: 11500000, guid: b5c9a6f14cd3efb4bafa0326937dbf14, type: 3}
+  m_Name: CallScore
   m_EditorClassIdentifier: 
-  value: {x: 4, y: -3, z: 0}

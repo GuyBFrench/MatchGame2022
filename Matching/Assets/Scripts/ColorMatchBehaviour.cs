@@ -5,6 +5,7 @@ using UnityEngine;
 public class ColorMatchBehaviour : MatchBehavior
 {
     public ColorIDDataList colorIDDataListObj;
+    
 
     private void Awake()
     {
