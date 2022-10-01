@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04b56234d02184047bea9285a32883ef, type: 3}
   m_Name: Ring Instancer
   m_EditorClassIdentifier: 
-  prefab: {fileID: 3409824283871815118, guid: a7443cc5598dc9a40a6d2faa3740f2bb, type: 3}
+  prefab: {fileID: 1969425118027402219, guid: a7443cc5598dc9a40a6d2faa3740f2bb, type: 3}
